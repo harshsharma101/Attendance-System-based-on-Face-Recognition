@@ -1,7 +1,7 @@
 # Attendance-System-based-on-Face-Recognition
  This is a system for monitoring attendance system which is based on face recognition technology. Later on I'll add the sentiment analysis part also in this project.
 
-
+### Steps to run this project:-
 - Run the app.py file
 - Click on the link generated in the output section (http://127.0.0.1:5000)
 - As it is a fresh run, we can see 0 users in the database.
@@ -17,4 +17,4 @@
 - Also one thing, you can check the faces you've captured in the static folder. 
 - And one CSV file will be automatically generated after taking the attendance  with the person's name, id, and time.
 
-Thankyou!
+Thank you!
